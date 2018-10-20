@@ -1,6 +1,5 @@
 package com.jj.peopletdd.service;
 
-import static org.junit.Assert.*;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
